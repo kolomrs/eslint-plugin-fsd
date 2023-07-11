@@ -1,6 +1,6 @@
 /**
  * @fileoverview feature sliced relative path checker
- * @author timur
+ * @author Roman
  */
 "use strict";
 
