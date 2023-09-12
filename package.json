@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-fsd-krs-plugin",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "description": "plugin for fsd project",
   "keywords": [
     "eslint",
